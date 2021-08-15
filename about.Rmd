@@ -8,5 +8,4 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
 ![alt text](./fotoa.png )
